@@ -1,0 +1,4 @@
+opencv-contrib-python>=4.5.0
+numpy>=1.19.0
+# opencv-python does not include cv2.ximgproc.thinning
+# opencv-python>=4.5.0
